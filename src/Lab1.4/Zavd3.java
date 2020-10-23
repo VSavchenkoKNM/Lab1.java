@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Input{
+public class Zavd3 {
   public static void main(String[] args){
     Scanner in = new Scanner(System.in);
     System.out.println("Input a int num: ");

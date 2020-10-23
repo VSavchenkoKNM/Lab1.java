@@ -4,7 +4,7 @@
 */
 import java.util.Scanner;
 
-public class Goodtask{
+public class Zavd4{
   public static void main(String[] args){
   Scanner in = new Scanner(System.in);
   /** 
@@ -20,9 +20,9 @@ public class Goodtask{
   fibostart(num,numb);
   }
 /**
- * after chosing smallest num starts printing sequence (odd nums)
+ * after choosing smallest num starts printing sequence (odd nums)
  * in the end outputs the Summary of sequence
- * /
+ */
   public static void counter1(int num,int numb){
   System.out.println("Start from smallest");
  int sum=0;
@@ -100,7 +100,7 @@ fibonachi(nparne,parne);
  */
 public static void fibonachi(int a, int b){
   Scanner in = new Scanner(System.in);
- int sum=0;
+ int sum;
  int counter=0;
   System.out.printf("\nSkilki znajti:  ");
  int s=in.nextInt();
